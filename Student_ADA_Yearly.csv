@@ -1,0 +1,643 @@
+School Year,Sector,ULCS Code,School Name,Average Daily Attendance (YTD)
+2022-2023,District,1010,John Bartram High School,77.27
+2022-2023,District,1020,West Philadelphia High School,80.34
+2022-2023,District,1030,High School of the Future,84.49
+2022-2023,District,1050,Paul Robeson High School for Human Services,91.50
+2022-2023,District,1100,William L. Sayre High School,82.52
+2022-2023,District,1130,William T. Tilden School,92.15
+2022-2023,District,1190,Motivation High School,92.66
+2022-2023,District,1200,John Barry School,82.96
+2022-2023,District,1230,William C. Bryant School,84.62
+2022-2023,District,1250,Joseph W. Catharine School,91.13
+2022-2023,District,1260,Benjamin B. Comegys School,82.81
+2022-2023,District,1280,Sadie Alexander School,96.69
+2022-2023,District,1290,Andrew Hamilton School,86.80
+2022-2023,District,1300,Avery D. Harrington School,88.48
+2022-2023,District,1340,Henry C. Lea School,91.38
+2022-2023,District,1350,William C. Longstreth School,87.14
+2022-2023,District,1360,Morton McMichael School,85.03
+2022-2023,District,1370,S. Weir Mitchell School,82.31
+2022-2023,District,1380,Thomas G. Morton School,88.95
+2022-2023,District,1390,Samuel Powel School,93.29
+2022-2023,District,1400,John M. Patterson School,89.04
+2022-2023,District,1410,James Rhoads School,84.30
+2022-2023,District,1420,Martha Washington School,86.30
+2022-2023,District,1440,Penrose School,86.07
+2022-2023,District,1460,Add B. Anderson School,86.29
+2022-2023,District,1470,Alain Locke School,87.21
+2022-2023,District,1490,Rudolph Blankenburg School,85.49
+2022-2023,District,1580,Middle Years Alternative School,91.44
+2022-2023,District,2000,South Philadelphia High School,78.07
+2022-2023,District,2010,Benjamin Franklin High School,80.47
+2022-2023,District,2020,High School for Creative and Performing Arts,92.84
+2022-2023,District,2050,Science Leadership Academy Middle School,97.47
+2022-2023,District,2140,Julia R. Masterman School,96.52
+2022-2023,District,2160,Furness High School,83.79
+2022-2023,District,2190,D. Newlin Fell School,90.94
+2022-2023,District,2210,Bache-Martin School,91.17
+2022-2023,District,2240,F. Amedee Bregy School,88.71
+2022-2023,District,2260,George W. Childs School,90.12
+2022-2023,District,2290,Franklin Learning Center,88.18
+2022-2023,District,2320,Stephen Girard School,87.25
+2022-2023,District,2340,General George A. McCall School,95.87
+2022-2023,District,2370,Delaplaine McDaniel School,83.47
+2022-2023,District,2380,William M. Meredith School,95.77
+2022-2023,District,2390,Robert Morris School,87.57
+2022-2023,District,2410,Girard Academic Music Program,95.50
+2022-2023,District,2450,Edwin M. Stanton School,90.20
+2022-2023,District,2470,Albert M. Greenfield School,95.23
+2022-2023,District,2480,Chester A. Arthur School,92.65
+2022-2023,District,2490,Laura W. Waring School,84.52
+2022-2023,District,2510,Fanny Jackson Coppin School,94.70
+2022-2023,District,2520,Abram S. Jenks School,94.03
+2022-2023,District,2540,Francis S. Key School,90.74
+2022-2023,District,2580,Eliza B. Kirkbride School,94.76
+2022-2023,District,2590,George W. Nebinger School,93.56
+2022-2023,District,2620,Academy at Palumbo,94.95
+2022-2023,District,2630,George W. Sharswood School,90.20
+2022-2023,District,2640,Southwark School,94.06
+2022-2023,District,2650,Science Leadership Academy,94.32
+2022-2023,District,2670,Constitution High School,87.81
+2022-2023,District,2680,The Science Leadership Academy at Beeber,94.17
+2022-2023,District,2690,John H. Taggart School,92.20
+2022-2023,District,2720,Vare-Washington School,92.63
+2022-2023,District,4020,Overbrook High School,76.18
+2022-2023,District,4030,High School of Engineering and Science,94.34
+2022-2023,District,4060,Murrell Dobbins Career and Technical High School,78.62
+2022-2023,District,4140,Strawberry Mansion High School,75.02
+2022-2023,District,4220,James G. Blaine School,83.94
+2022-2023,District,4240,Lewis C. Cassidy Academics Plus School,85.93
+2022-2023,District,4270,William Dick School,83.38
+2022-2023,District,4280,Samuel Gompers School,90.70
+2022-2023,District,4300,Edward Heston School,84.07
+2022-2023,District,4320,Robert E. Lamberton School,87.05
+2022-2023,District,4350,E. Washington Rhodes School,84.69
+2022-2023,District,4360,Kenderton Elementary School,84.85
+2022-2023,District,4370,Overbrook Elementary School,88.04
+2022-2023,District,4380,Thomas M. Peirce School,86.36
+2022-2023,District,4440,Dr. Ethel Allen School,83.13
+2022-2023,District,4460,Tanner G. Duckrey School,83.46
+2022-2023,District,4470,Richard R. Wright School,85.49
+2022-2023,District,4480,Overbrook Educational Center,93.96
+2022-2023,District,4530,Edward Gideon School,83.92
+2022-2023,District,4560,William D. Kelley School,90.35
+2022-2023,District,4570,General George G. Meade School,83.88
+2022-2023,District,5020,Thomas A. Edison High School,72.64
+2022-2023,District,5050,Philadelphia Military Academy,84.82
+2022-2023,District,5060,Jules E. Mastbaum Area Vocational Technical High School,79.95
+2022-2023,District,5070,Parkway Northwest High School,92.63
+2022-2023,District,5080,Parkway Center City Middle College High School,93.60
+2022-2023,District,5090,Parkway West High School,85.92
+2022-2023,District,5150,William W. Bodine High School,92.75
+2022-2023,District,5160,Penn Treaty High School,78.84
+2022-2023,District,5170,Julia de Burgos School,86.22
+2022-2023,District,5180,Vaux High School: A Big Picture,82.80
+2022-2023,District,5200,Alexander Adaire School,94.80
+2022-2023,District,5210,Henry A. Brown School,89.72
+2022-2023,District,5230,Russell H. Conwell School,92.35
+2022-2023,District,5250,Paul L. Dunbar School,86.89
+2022-2023,District,5260,Lewis Elkin School,85.55
+2022-2023,District,5300,Horatio B. Hackett School,92.23
+2022-2023,District,5320,John F. Hartranft School,84.13
+2022-2023,District,5330,William H. Hunter School,86.80
+2022-2023,District,5340,James R. Ludlow School,87.56
+2022-2023,District,5350,William McKinley School,85.35
+2022-2023,District,5370,John Moffet School,91.64
+2022-2023,District,5390,Potter-Thomas School,85.10
+2022-2023,District,5400,Richmond School,87.36
+2022-2023,District,5410,Isaac A. Sheppard School,89.06
+2022-2023,District,5420,John Welsh School,87.84
+2022-2023,District,5430,Alternative Middle Years at James Martin,90.04
+2022-2023,District,5440,Frances E. Willard School,86.65
+2022-2023,District,5470,William Cramp School,86.90
+2022-2023,District,5480,General Philip Kearny School,87.96
+2022-2023,District,5490,Cayuga School,90.53
+2022-2023,District,5500,Thurgood Marshall School,87.38
+2022-2023,District,5520,Kensington High School for Creative and Performing Arts,76.32
+2022-2023,District,5530,Gloria Casarez Elementary School,87.81
+2022-2023,District,5550,Kensington Health Sciences Academy,83.89
+2022-2023,District,5560,Spring Garden School,89.01
+2022-2023,District,5580,"Stetson, John B. Middle School",89.14
+2022-2023,District,5590,John H. Webster School,86.36
+2022-2023,District,5610,Building 21,91.30
+2022-2023,District,5620,The U School,81.22
+2022-2023,District,5660,The LINC,86.14
+2022-2023,District,5680,Honorable Luis Munoz-Marin School,87.84
+2022-2023,District,5700,Kensington High School,75.40
+2022-2023,District,6010,Central High School,96.46
+2022-2023,District,6030,Roxborough High School,80.40
+2022-2023,District,6040,Walter B. Saul High School,89.87
+2022-2023,District,6050,Philadelphia High School for Girls,90.23
+2022-2023,District,6060,Martin Luther King High School,77.28
+2022-2023,District,6090,A. Philip Randolph Career and Technical High School,83.29
+2022-2023,District,6200,Anna B. Day School,90.37
+2022-2023,District,6210,Franklin S. Edmonds School,90.27
+2022-2023,District,6220,Eleanor C. Emlen School,90.05
+2022-2023,District,6230,Fitler Academics Plus School,92.27
+2022-2023,District,6250,Charles W. Henry School,93.46
+2022-2023,District,6260,Henry H. Houston School,92.32
+2022-2023,District,6270,Jenks Academy for Arts and Sciences,91.96
+2022-2023,District,6300,James Logan School,90.72
+2022-2023,District,6310,John F. McCloskey School,90.70
+2022-2023,District,6320,Thomas Mifflin School,88.48
+2022-2023,District,6340,Joseph Pennell School,89.70
+2022-2023,District,6350,Samuel Pennypacker School,90.44
+2022-2023,District,6360,Theodore Roosevelt School,76.86
+2022-2023,District,6380,Shawmont School,90.75
+2022-2023,District,6390,Edward T. Steel School,85.11
+2022-2023,District,6410,Cook-Wissahickon School,91.36
+2022-2023,District,6440,Anna L. Lingelbach School,92.76
+2022-2023,District,6450,James Dobson School,92.67
+2022-2023,District,6460,Hill-Freedman World Academy,91.80
+2022-2023,District,6470,John B. Kelly School,88.06
+2022-2023,District,6480,Academy for the Middle Years at Northwest,92.94
+2022-2023,District,6540,Lankenau High School,91.57
+2022-2023,District,7010,Frankford High School,78.52
+2022-2023,District,7060,Olney High School,82.76
+2022-2023,District,7100,Jay Cooke School,88.80
+2022-2023,District,7110,Warren G. Harding School,86.93
+2022-2023,District,7120,Samuel Fels High School,83.92
+2022-2023,District,7130,General Louis Wagner School,87.99
+2022-2023,District,7150,Juniata Park Academy,89.86
+2022-2023,District,7200,Clara Barton School,90.61
+2022-2023,District,7220,Laura H. Carnell School,88.57
+2022-2023,District,7260,Ellwood School,90.58
+2022-2023,District,7270,Thomas K. Finletter School,92.32
+2022-2023,District,7280,Benjamin Franklin School,90.40
+2022-2023,District,7290,Allen M. Stearne School,87.56
+2022-2023,District,7300,Francis Hopkinson School,89.17
+2022-2023,District,7310,Feltonville Intermediate School,92.07
+2022-2023,District,7320,Julia W. Howe School,90.36
+2022-2023,District,7330,Henry W. Lawton School,90.54
+2022-2023,District,7350,James R. Lowell School,89.75
+2022-2023,District,7360,John Marshall School,84.97
+2022-2023,District,7370,"Grover Washington, Jr. School",92.04
+2022-2023,District,7380,Alexander K. McClure School,87.96
+2022-2023,District,7390,Andrew J. Morrison School,89.83
+2022-2023,District,7400,Olney School,90.77
+2022-2023,District,7430,James J. Sullivan School,86.13
+2022-2023,District,7440,Bayard Taylor School,87.18
+2022-2023,District,7460,William H. Ziegler School,89.70
+2022-2023,District,7470,Bridesburg School,89.75
+2022-2023,District,7490,Prince Hall School,89.94
+2022-2023,District,7500,Feltonville School of Arts and Sciences,91.26
+2022-2023,District,7510,Mary M. Bethune School,85.35
+2022-2023,District,7530,William Rowen School,88.73
+2022-2023,District,7730,Roberto Clemente School,85.51
+2022-2023,District,8010,Abraham Lincoln High School,82.98
+2022-2023,District,8020,Northeast High School,87.42
+2022-2023,District,8030,George Washington High School,88.42
+2022-2023,District,8040,Arts Academy at Benjamin Rush,92.36
+2022-2023,District,8090,Swenson Arts and Technology High School,89.74
+2022-2023,District,8120,Castor Gardens Middle School,91.58
+2022-2023,District,8130,Northeast Community Propel Academy,89.56
+2022-2023,District,8160,Baldi School,93.20
+2022-2023,District,8200,Ethan Allen School,89.05
+2022-2023,District,8210,Joseph H. Brown School,90.47
+2022-2023,District,8230,Kennedy C. Crossan School,91.49
+2022-2023,District,8240,Hamilton Disston School,87.16
+2022-2023,District,8250,Edwin Forrest School,88.59
+2022-2023,District,8260,Fox Chase School,92.70
+2022-2023,District,8270,Thomas Holme School,90.97
+2022-2023,District,8300,Mayfair School,92.82
+2022-2023,District,8310,J. Hampton Moore School,91.61
+2022-2023,District,8340,Solomon Solis-Cohen School,90.99
+2022-2023,District,8350,Gilbert Spruance School,90.58
+2022-2023,District,8360,Rhawnhurst School,90.98
+2022-2023,District,8370,Watson Comly School,93.44
+2022-2023,District,8380,Louis H. Farrell School,91.62
+2022-2023,District,8390,A.L. Fitzpatrick School,90.10
+2022-2023,District,8400,Anne Frank School,93.92
+2022-2023,District,8410,Robert B. Pollock School,88.54
+2022-2023,District,8420,Stephen Decatur School,91.78
+2022-2023,District,8430,Joseph Greenberg School,95.34
+2022-2023,District,8440,William H. Loesche School,93.69
+2022-2023,District,8560,The Workshop School,94.16
+2022-2023,District,8770,John Hancock Demonstration School,92.32
+2021-2022,District,1010,John Bartram High School,76.70
+2021-2022,District,1020,West Philadelphia High School,85.87
+2021-2022,District,1030,High School of the Future,83.85
+2021-2022,District,1050,Paul Robeson High School for Human Services,92.37
+2021-2022,District,1100,William L. Sayre High School,81.19
+2021-2022,District,1130,William T. Tilden School,88.33
+2021-2022,District,1190,Motivation High School,92.34
+2021-2022,District,1200,John Barry School,80.45
+2021-2022,District,1230,William C. Bryant School,80.42
+2021-2022,District,1250,Joseph W. Catharine School,87.39
+2021-2022,District,1260,Benjamin B. Comegys School,82.53
+2021-2022,District,1280,Sadie Alexander School,96.99
+2021-2022,District,1290,Andrew Hamilton School,81.56
+2021-2022,District,1300,Avery D. Harrington School,83.40
+2021-2022,District,1340,Henry C. Lea School,90.51
+2021-2022,District,1350,William C. Longstreth School,84.69
+2021-2022,District,1360,Morton McMichael School,82.59
+2021-2022,District,1370,S. Weir Mitchell School,82.35
+2021-2022,District,1380,Thomas G. Morton School,87.33
+2021-2022,District,1390,Samuel Powel School,91.06
+2021-2022,District,1400,John M. Patterson School,92.93
+2021-2022,District,1410,James Rhoads School,84.15
+2021-2022,District,1420,Martha Washington School,85.48
+2021-2022,District,1440,Penrose School,84.26
+2021-2022,District,1460,Add B. Anderson School,85.07
+2021-2022,District,1470,Alain Locke School,85.40
+2021-2022,District,1490,Rudolph Blankenburg School,85.36
+2021-2022,District,1580,Middle Years Alternative School,92.00
+2021-2022,District,2000,South Philadelphia High School,72.97
+2021-2022,District,2010,Benjamin Franklin High School,73.48
+2021-2022,District,2020,High School for Creative and Performing Arts,94.77
+2021-2022,District,2050,Science Leadership Academy Middle School,93.61
+2021-2022,District,2140,Julia R. Masterman School,97.32
+2021-2022,District,2160,Furness High School,79.52
+2021-2022,District,2190,D. Newlin Fell School,90.29
+2021-2022,District,2210,Bache-Martin School,88.23
+2021-2022,District,2240,F. Amedee Bregy School,87.56
+2021-2022,District,2260,George W. Childs School,89.18
+2021-2022,District,2290,Franklin Learning Center,88.34
+2021-2022,District,2320,Stephen Girard School,84.47
+2021-2022,District,2340,General George A. McCall School,96.14
+2021-2022,District,2370,Delaplaine McDaniel School,81.57
+2021-2022,District,2380,William M. Meredith School,96.67
+2021-2022,District,2390,Robert Morris School,83.98
+2021-2022,District,2410,Girard Academic Music Program,95.50
+2021-2022,District,2450,Edwin M. Stanton School,89.46
+2021-2022,District,2470,Albert M. Greenfield School,96.17
+2021-2022,District,2480,Chester A. Arthur School,93.29
+2021-2022,District,2490,Laura W. Waring School,84.92
+2021-2022,District,2510,Fanny Jackson Coppin School,94.07
+2021-2022,District,2520,Abram S. Jenks School,93.55
+2021-2022,District,2540,Francis S. Key School,91.21
+2021-2022,District,2580,Eliza B. Kirkbride School,95.28
+2021-2022,District,2590,George W. Nebinger School,93.70
+2021-2022,District,2620,Academy at Palumbo,94.79
+2021-2022,District,2630,George W. Sharswood School,86.86
+2021-2022,District,2640,Southwark School,93.47
+2021-2022,District,2650,Science Leadership Academy,94.40
+2021-2022,District,2670,Constitution High School,90.80
+2021-2022,District,2680,The Science Leadership Academy at Beeber,94.26
+2021-2022,District,2690,John H. Taggart School,90.90
+2021-2022,District,2720,Vare-Washington School,91.46
+2021-2022,District,4020,Overbrook High School,74.61
+2021-2022,District,4030,High School of Engineering and Science,94.03
+2021-2022,District,4060,Murrell Dobbins Career and Technical High School,79.22
+2021-2022,District,4140,Strawberry Mansion High School,74.04
+2021-2022,District,4220,James G. Blaine School,85.31
+2021-2022,District,4240,Lewis C. Cassidy Academics Plus School,93.29
+2021-2022,District,4270,William Dick School,79.70
+2021-2022,District,4280,Samuel Gompers School,90.38
+2021-2022,District,4300,Edward Heston School,82.19
+2021-2022,District,4320,Robert E. Lamberton School,85.93
+2021-2022,District,4350,E. Washington Rhodes School,86.53
+2021-2022,District,4360,Kenderton Elementary School,84.77
+2021-2022,District,4370,Overbrook Elementary School,87.50
+2021-2022,District,4380,Thomas M. Peirce School,82.66
+2021-2022,District,4440,Dr. Ethel Allen School,82.61
+2021-2022,District,4460,Tanner G. Duckrey School,82.59
+2021-2022,District,4470,Richard R. Wright School,80.98
+2021-2022,District,4480,Overbrook Educational Center,93.52
+2021-2022,District,4530,Edward Gideon School,85.13
+2021-2022,District,4560,William D. Kelley School,86.59
+2021-2022,District,4570,General George G. Meade School,83.30
+2021-2022,District,5020,Thomas A. Edison High School,68.85
+2021-2022,District,5050,Philadelphia Military Academy,84.77
+2021-2022,District,5060,Jules E. Mastbaum Area Vocational Technical High School,78.55
+2021-2022,District,5070,Parkway Northwest High School,91.17
+2021-2022,District,5080,Parkway Center City Middle College High School,93.92
+2021-2022,District,5090,Parkway West High School,85.49
+2021-2022,District,5150,William W. Bodine High School,92.78
+2021-2022,District,5160,Penn Treaty High School,83.72
+2021-2022,District,5170,Julia de Burgos School,82.29
+2021-2022,District,5180,Vaux High School: A Big Picture,78.37
+2021-2022,District,5200,Alexander Adaire School,94.70
+2021-2022,District,5210,Henry A. Brown School,88.36
+2021-2022,District,5230,Russell H. Conwell School,90.09
+2021-2022,District,5250,Paul L. Dunbar School,83.33
+2021-2022,District,5260,Lewis Elkin School,83.47
+2021-2022,District,5300,Horatio B. Hackett School,92.42
+2021-2022,District,5320,John F. Hartranft School,78.61
+2021-2022,District,5330,William H. Hunter School,85.75
+2021-2022,District,5340,James R. Ludlow School,85.43
+2021-2022,District,5350,William McKinley School,84.80
+2021-2022,District,5370,John Moffet School,91.28
+2021-2022,District,5390,Potter-Thomas School,81.38
+2021-2022,District,5400,Richmond School,83.12
+2021-2022,District,5410,Isaac A. Sheppard School,83.96
+2021-2022,District,5420,John Welsh School,86.78
+2021-2022,District,5430,Alternative Middle Years at James Martin,89.06
+2021-2022,District,5440,Frances E. Willard School,85.39
+2021-2022,District,5470,William Cramp School,86.87
+2021-2022,District,5480,General Philip Kearny School,84.20
+2021-2022,District,5490,Cayuga School,88.85
+2021-2022,District,5500,Thurgood Marshall School,81.14
+2021-2022,District,5520,Kensington High School for Creative and Performing Arts,76.62
+2021-2022,District,5530,Philip H. Sheridan School,87.60
+2021-2022,District,5550,Kensington Health Sciences Academy,81.37
+2021-2022,District,5560,Spring Garden School,91.28
+2021-2022,District,5590,John H. Webster School,85.21
+2021-2022,District,5610,Building 21,88.07
+2021-2022,District,5620,The U School,84.18
+2021-2022,District,5660,The LINC,82.94
+2021-2022,District,5680,Honorable Luis Munoz-Marin School,85.04
+2021-2022,District,5700,Kensington High School,76.40
+2021-2022,District,6010,Central High School,96.29
+2021-2022,District,6030,Roxborough High School,74.26
+2021-2022,District,6040,Walter B. Saul High School,89.17
+2021-2022,District,6050,Philadelphia High School for Girls,89.70
+2021-2022,District,6060,Martin Luther King High School,73.37
+2021-2022,District,6090,A. Philip Randolph Career and Technical High School,85.00
+2021-2022,District,6200,Anna B. Day School,90.02
+2021-2022,District,6210,Franklin S. Edmonds School,89.51
+2021-2022,District,6220,Eleanor C. Emlen School,89.16
+2021-2022,District,6230,Fitler Academics Plus School,88.23
+2021-2022,District,6250,Charles W. Henry School,93.32
+2021-2022,District,6260,Henry H. Houston School,92.07
+2021-2022,District,6270,Jenks Academy for Arts and Sciences,92.73
+2021-2022,District,6300,James Logan School,90.64
+2021-2022,District,6310,John F. McCloskey School,88.51
+2021-2022,District,6320,Thomas Mifflin School,86.74
+2021-2022,District,6340,Joseph Pennell School,85.28
+2021-2022,District,6350,Samuel Pennypacker School,90.50
+2021-2022,District,6360,Theodore Roosevelt School,78.80
+2021-2022,District,6380,Shawmont School,88.77
+2021-2022,District,6390,Edward T. Steel School,84.41
+2021-2022,District,6410,Cook-Wissahickon School,92.29
+2021-2022,District,6440,Anna L. Lingelbach School,91.07
+2021-2022,District,6450,James Dobson School,92.06
+2021-2022,District,6460,Hill-Freedman World Academy,93.31
+2021-2022,District,6470,John B. Kelly School,87.02
+2021-2022,District,6480,Academy for the Middle Years at Northwest,92.86
+2021-2022,District,6540,Lankenau High School,90.77
+2021-2022,District,7010,Frankford High School,78.05
+2021-2022,District,7100,Jay Cooke School,87.86
+2021-2022,District,7110,Warren G. Harding School,86.99
+2021-2022,District,7120,Samuel Fels High School,80.01
+2021-2022,District,7130,General Louis Wagner School,91.68
+2021-2022,District,7150,Juniata Park Academy,87.52
+2021-2022,District,7200,Clara Barton School,88.79
+2021-2022,District,7220,Laura H. Carnell School,87.22
+2021-2022,District,7260,Ellwood School,88.26
+2021-2022,District,7270,Thomas K. Finletter School,92.14
+2021-2022,District,7280,Benjamin Franklin School,89.40
+2021-2022,District,7290,Allen M. Stearne School,81.95
+2021-2022,District,7300,Francis Hopkinson School,89.05
+2021-2022,District,7310,Feltonville Intermediate School,90.14
+2021-2022,District,7320,Julia W. Howe School,90.26
+2021-2022,District,7330,Henry W. Lawton School,88.30
+2021-2022,District,7350,James R. Lowell School,87.80
+2021-2022,District,7360,John Marshall School,83.41
+2021-2022,District,7370,"Grover Washington, Jr. School",92.89
+2021-2022,District,7380,Alexander K. McClure School,86.20
+2021-2022,District,7390,Andrew J. Morrison School,88.05
+2021-2022,District,7400,Olney School,90.12
+2021-2022,District,7430,James J. Sullivan School,88.54
+2021-2022,District,7440,Bayard Taylor School,86.19
+2021-2022,District,7460,William H. Ziegler School,88.42
+2021-2022,District,7470,Bridesburg School,89.41
+2021-2022,District,7490,Prince Hall School,89.73
+2021-2022,District,7500,Feltonville School of Arts and Sciences,91.09
+2021-2022,District,7510,Mary M. Bethune School,82.57
+2021-2022,District,7530,William Rowen School,89.27
+2021-2022,District,7730,Roberto Clemente School,88.42
+2021-2022,District,8010,Abraham Lincoln High School,82.99
+2021-2022,District,8020,Northeast High School,85.23
+2021-2022,District,8030,George Washington High School,85.13
+2021-2022,District,8040,Arts Academy at Benjamin Rush,93.88
+2021-2022,District,8090,Swenson Arts and Technology High School,90.81
+2021-2022,District,8120,Woodrow Wilson School,91.43
+2021-2022,District,8130,Northeast Community Propel Academy,90.85
+2021-2022,District,8140,Austin Meehan School,85.74
+2021-2022,District,8160,Baldi School,93.40
+2021-2022,District,8200,Ethan Allen School,89.00
+2021-2022,District,8210,Joseph H. Brown School,90.00
+2021-2022,District,8230,Kennedy C. Crossan School,90.73
+2021-2022,District,8240,Hamilton Disston School,84.65
+2021-2022,District,8250,Edwin Forrest School,88.89
+2021-2022,District,8260,Fox Chase School,92.95
+2021-2022,District,8270,Thomas Holme School,91.24
+2021-2022,District,8300,Mayfair School,92.99
+2021-2022,District,8310,J. Hampton Moore School,90.53
+2021-2022,District,8340,Solomon Solis-Cohen School,88.89
+2021-2022,District,8350,Gilbert Spruance School,89.33
+2021-2022,District,8360,Rhawnhurst School,90.76
+2021-2022,District,8370,Watson Comly School,93.30
+2021-2022,District,8380,Louis H. Farrell School,93.03
+2021-2022,District,8390,A.L. Fitzpatrick School,89.75
+2021-2022,District,8400,Anne Frank School,94.78
+2021-2022,District,8410,Robert B. Pollock School,90.66
+2021-2022,District,8420,Stephen Decatur School,90.03
+2021-2022,District,8430,Joseph Greenberg School,96.33
+2021-2022,District,8440,William H. Loesche School,93.34
+2021-2022,District,8560,The Workshop School,93.92
+2021-2022,District,8770,John Hancock Demonstration School,92.29
+2020-2021,District,1010,John Bartram High School,77.41
+2020-2021,District,1020,West Philadelphia High School,87.00
+2020-2021,District,1030,High School of the Future,86.89
+2020-2021,District,1050,Paul Robeson High School for Human Services,98.65
+2020-2021,District,1100,William L. Sayre High School,85.32
+2020-2021,District,1130,William T. Tilden School,88.65
+2020-2021,District,1190,Motivation High School,95.48
+2020-2021,District,1200,John Barry School,79.16
+2020-2021,District,1230,William C. Bryant School,75.05
+2020-2021,District,1250,Joseph W. Catharine School,88.18
+2020-2021,District,1260,Benjamin B. Comegys School,80.34
+2020-2021,District,1280,Sadie Alexander School,98.68
+2020-2021,District,1290,Andrew Hamilton School,81.22
+2020-2021,District,1300,Avery D. Harrington School,83.45
+2020-2021,District,1340,Henry C. Lea School,87.15
+2020-2021,District,1350,William C. Longstreth School,78.31
+2020-2021,District,1360,Morton McMichael School,82.21
+2020-2021,District,1370,S. Weir Mitchell School,80.19
+2020-2021,District,1380,Thomas G. Morton School,82.98
+2020-2021,District,1390,Samuel Powel School,92.07
+2020-2021,District,1400,John M. Patterson School,93.08
+2020-2021,District,1410,James Rhoads School,81.71
+2020-2021,District,1420,Martha Washington School,81.66
+2020-2021,District,1440,Penrose School,83.02
+2020-2021,District,1460,Add B. Anderson School,80.86
+2020-2021,District,1470,Alain Locke School,86.70
+2020-2021,District,1490,Rudolph Blankenburg School,83.57
+2020-2021,District,1580,Middle Years Alternative School,96.54
+2020-2021,District,2000,South Philadelphia High School,82.22
+2020-2021,District,2010,Benjamin Franklin High School,78.01
+2020-2021,District,2020,High School for Creative and Performing Arts,99.06
+2020-2021,District,2050,Science Leadership Academy Middle School,98.23
+2020-2021,District,2140,Julia R. Masterman School,99.44
+2020-2021,District,2160,Furness High School,81.52
+2020-2021,District,2190,D. Newlin Fell School,90.34
+2020-2021,District,2210,Bache-Martin School,91.19
+2020-2021,District,2240,F. Amedee Bregy School,85.40
+2020-2021,District,2260,George W. Childs School,87.52
+2020-2021,District,2290,Franklin Learning Center,91.97
+2020-2021,District,2320,Stephen Girard School,82.66
+2020-2021,District,2340,General George A. McCall School,97.48
+2020-2021,District,2370,Delaplaine McDaniel School,82.60
+2020-2021,District,2380,William M. Meredith School,98.82
+2020-2021,District,2390,Robert Morris School,82.07
+2020-2021,District,2410,Girard Academic Music Program,98.72
+2020-2021,District,2450,Edwin M. Stanton School,92.84
+2020-2021,District,2470,Albert M. Greenfield School,98.61
+2020-2021,District,2480,Chester A. Arthur School,95.02
+2020-2021,District,2490,Laura W. Waring School,89.01
+2020-2021,District,2510,Andrew Jackson School,94.61
+2020-2021,District,2520,Abram S. Jenks School,94.87
+2020-2021,District,2540,Francis S. Key School,91.68
+2020-2021,District,2580,Eliza B. Kirkbride School,94.78
+2020-2021,District,2590,George W. Nebinger School,91.00
+2020-2021,District,2620,Academy at Palumbo,98.28
+2020-2021,District,2630,George W. Sharswood School,85.43
+2020-2021,District,2640,Southwark School,92.86
+2020-2021,District,2650,Science Leadership Academy,98.27
+2020-2021,District,2670,Constitution High School,95.07
+2020-2021,District,2680,The Science Leadership Academy at Beeber,98.86
+2020-2021,District,2690,John H. Taggart School,94.37
+2020-2021,District,2720,Vare-Washington School,91.63
+2020-2021,District,4020,Overbrook High School,77.89
+2020-2021,District,4030,High School of Engineering and Science,99.42
+2020-2021,District,4060,Murrell Dobbins Career and Technical High School,85.67
+2020-2021,District,4140,Strawberry Mansion High School,82.86
+2020-2021,District,4220,James G. Blaine School,81.73
+2020-2021,District,4240,Lewis C. Cassidy Academics Plus School,82.28
+2020-2021,District,4270,William Dick School,82.93
+2020-2021,District,4280,Samuel Gompers School,90.84
+2020-2021,District,4300,Edward Heston School,80.95
+2020-2021,District,4320,Robert E. Lamberton School,86.78
+2020-2021,District,4350,E. Washington Rhodes School,86.50
+2020-2021,District,4360,Kenderton Elementary School,83.34
+2020-2021,District,4370,Overbrook Elementary School,88.37
+2020-2021,District,4380,Thomas M. Peirce School,81.59
+2020-2021,District,4440,Dr. Ethel Allen School,79.56
+2020-2021,District,4460,Tanner G. Duckrey School,74.20
+2020-2021,District,4470,Richard R. Wright School,78.42
+2020-2021,District,4480,Overbrook Educational Center,94.50
+2020-2021,District,4530,Edward Gideon School,78.26
+2020-2021,District,4560,William D. Kelley School,78.72
+2020-2021,District,4570,General George G. Meade School,77.54
+2020-2021,District,5020,Thomas A. Edison High School,80.87
+2020-2021,District,5050,Philadelphia Military Academy,88.77
+2020-2021,District,5060,Jules E. Mastbaum Area Vocational Technical High School,82.96
+2020-2021,District,5070,Parkway Northwest High School,96.85
+2020-2021,District,5080,Parkway Center City Middle College High School,96.58
+2020-2021,District,5090,Parkway West High School,87.25
+2020-2021,District,5150,William W. Bodine High School,97.92
+2020-2021,District,5160,Penn Treaty High School,85.71
+2020-2021,District,5170,Julia de Burgos School,82.55
+2020-2021,District,5180,Vaux High School: A Big Picture,88.79
+2020-2021,District,5200,Alexander Adaire School,95.91
+2020-2021,District,5210,Henry A. Brown School,89.72
+2020-2021,District,5230,Russell H. Conwell School,91.99
+2020-2021,District,5250,Paul L. Dunbar School,88.68
+2020-2021,District,5260,Lewis Elkin School,85.94
+2020-2021,District,5300,Horatio B. Hackett School,91.36
+2020-2021,District,5320,John F. Hartranft School,74.63
+2020-2021,District,5330,William H. Hunter School,87.60
+2020-2021,District,5340,James R. Ludlow School,85.56
+2020-2021,District,5350,William McKinley School,85.18
+2020-2021,District,5370,John Moffet School,91.24
+2020-2021,District,5390,Potter-Thomas School,83.29
+2020-2021,District,5400,Richmond School,88.26
+2020-2021,District,5410,Isaac A. Sheppard School,80.49
+2020-2021,District,5420,John Welsh School,82.59
+2020-2021,District,5430,Alternative Middle Years at James Martin,85.20
+2020-2021,District,5440,Frances E. Willard School,81.57
+2020-2021,District,5470,William Cramp School,81.76
+2020-2021,District,5480,General Philip Kearny School,89.63
+2020-2021,District,5490,Cayuga School,90.36
+2020-2021,District,5500,Thurgood Marshall School,81.18
+2020-2021,District,5520,Kensington High School for Creative and Performing Arts,81.57
+2020-2021,District,5530,Philip H. Sheridan School,87.72
+2020-2021,District,5550,Kensington Health Sciences Academy,86.78
+2020-2021,District,5560,Spring Garden School,90.42
+2020-2021,District,5590,John H. Webster School,88.47
+2020-2021,District,5610,Building 21,88.67
+2020-2021,District,5620,The U School,89.08
+2020-2021,District,5660,The LINC,84.79
+2020-2021,District,5680,Honorable Luis Munoz-Marin School,81.58
+2020-2021,District,5700,Kensington High School,78.77
+2020-2021,District,6010,Central High School,99.35
+2020-2021,District,6030,Roxborough High School,81.79
+2020-2021,District,6040,Walter B. Saul High School,97.21
+2020-2021,District,6050,Philadelphia High School for Girls,96.96
+2020-2021,District,6060,Martin Luther King High School,75.22
+2020-2021,District,6090,A. Philip Randolph Career and Technical High School,90.53
+2020-2021,District,6200,Anna B. Day School,89.35
+2020-2021,District,6210,Franklin S. Edmonds School,93.15
+2020-2021,District,6220,Eleanor C. Emlen School,90.24
+2020-2021,District,6230,Fitler Academics Plus School,91.57
+2020-2021,District,6250,Charles W. Henry School,95.97
+2020-2021,District,6260,Henry H. Houston School,94.49
+2020-2021,District,6270,Jenks Academy for Arts and Sciences,94.41
+2020-2021,District,6300,James Logan School,90.32
+2020-2021,District,6310,John F. McCloskey School,90.39
+2020-2021,District,6320,Thomas Mifflin School,89.40
+2020-2021,District,6340,Joseph Pennell School,85.39
+2020-2021,District,6350,Samuel Pennypacker School,87.44
+2020-2021,District,6360,Theodore Roosevelt School,81.04
+2020-2021,District,6380,Shawmont School,93.52
+2020-2021,District,6390,Edward T. Steel School,79.56
+2020-2021,District,6410,Cook-Wissahickon School,93.84
+2020-2021,District,6440,Anna L. Lingelbach School,92.22
+2020-2021,District,6450,James Dobson School,94.26
+2020-2021,District,6460,Hill-Freedman World Academy,96.50
+2020-2021,District,6470,John B. Kelly School,80.74
+2020-2021,District,6480,Academy for the Middle Years at Northwest,96.07
+2020-2021,District,6540,Lankenau High School,98.81
+2020-2021,District,7010,Frankford High School,77.92
+2020-2021,District,7100,Jay Cooke School,87.26
+2020-2021,District,7110,Warren G. Harding School,85.25
+2020-2021,District,7120,Samuel Fels High School,84.92
+2020-2021,District,7130,General Louis Wagner School,91.12
+2020-2021,District,7150,Juniata Park Academy,91.75
+2020-2021,District,7200,Clara Barton School,89.87
+2020-2021,District,7220,Laura H. Carnell School,87.83
+2020-2021,District,7260,Ellwood School,89.70
+2020-2021,District,7270,Thomas K. Finletter School,93.18
+2020-2021,District,7280,Benjamin Franklin School,90.18
+2020-2021,District,7290,Allen M. Stearne School,82.91
+2020-2021,District,7300,Francis Hopkinson School,88.95
+2020-2021,District,7310,Feltonville Intermediate School,88.83
+2020-2021,District,7320,Julia W. Howe School,89.93
+2020-2021,District,7330,Henry W. Lawton School,90.46
+2020-2021,District,7350,James R. Lowell School,87.89
+2020-2021,District,7360,John Marshall School,82.67
+2020-2021,District,7370,"Grover Washington, Jr. School",94.04
+2020-2021,District,7380,Alexander K. McClure School,82.58
+2020-2021,District,7390,Andrew J. Morrison School,86.91
+2020-2021,District,7400,Olney School,85.95
+2020-2021,District,7430,James J. Sullivan School,88.25
+2020-2021,District,7440,Bayard Taylor School,81.71
+2020-2021,District,7460,William H. Ziegler School,85.86
+2020-2021,District,7470,Bridesburg School,91.28
+2020-2021,District,7490,Prince Hall School,86.48
+2020-2021,District,7500,Feltonville School of Arts and Sciences,95.11
+2020-2021,District,7510,Mary M. Bethune School,73.77
+2020-2021,District,7530,William Rowen School,89.06
+2020-2021,District,7730,Roberto Clemente School,90.05
+2020-2021,District,8010,Abraham Lincoln High School,92.05
+2020-2021,District,8020,Northeast High School,92.63
+2020-2021,District,8030,George Washington High School,90.91
+2020-2021,District,8040,Arts Academy at Benjamin Rush,98.02
+2020-2021,District,8090,Swenson Arts and Technology High School,95.12
+2020-2021,District,8120,Woodrow Wilson School,94.69
+2020-2021,District,8140,Austin Meehan School,91.65
+2020-2021,District,8160,Baldi School,98.06
+2020-2021,District,8200,Ethan Allen School,91.05
+2020-2021,District,8210,Joseph H. Brown School,94.29
+2020-2021,District,8230,Kennedy C. Crossan School,92.89
+2020-2021,District,8240,Hamilton Disston School,84.19
+2020-2021,District,8250,Edwin Forrest School,90.26
+2020-2021,District,8260,Fox Chase School,95.75
+2020-2021,District,8270,Thomas Holme School,93.86
+2020-2021,District,8300,Mayfair School,94.78
+2020-2021,District,8310,J. Hampton Moore School,94.51
+2020-2021,District,8340,Solomon Solis-Cohen School,93.40
+2020-2021,District,8350,Gilbert Spruance School,90.02
+2020-2021,District,8360,Rhawnhurst School,94.87
+2020-2021,District,8370,Watson Comly School,96.81
+2020-2021,District,8380,Louis H. Farrell School,95.77
+2020-2021,District,8390,A.L. Fitzpatrick School,91.55
+2020-2021,District,8400,Anne Frank School,97.58
+2020-2021,District,8410,Robert B. Pollock School,91.30
+2020-2021,District,8420,Stephen Decatur School,93.27
+2020-2021,District,8430,Joseph Greenberg School,98.13
+2020-2021,District,8440,William H. Loesche School,95.96
+2020-2021,District,8560,The Workshop School,87.51
+2020-2021,District,8770,John Hancock Demonstration School,94.76
